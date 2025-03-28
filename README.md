@@ -4,7 +4,7 @@
 This project involves setting up an Active Directory (AD) Homelab to gain hands-on experience with enterprise-level network security, system administration, and threat detection. The lab is designed to simulate a real-world IT environment where Windows Server, Windows 10, Splunk, and Sysmon are deployed to monitor security events. Additionally, a Kali Linux VM is introduced to conduct a brute-force attack simulation, allowing for practical learning in log analysis and threat detection using Splunk.
 
 ## Project Diagram
-
+![Logical Diagram](https://github.com/ShermanTreeDev/Active-Directory-Simulation-Project/blob/5b5d937e69da831e8443212cc623499d18af4ecb/Sources/Logical%20Diagram.png)
 
 ### Key Objectives 🔑 
 **Active Directory Deployment**: Install and configure Windows Server as an Active Directory Domain Controller (DC). Set up organizational units (OUs), user accounts, and group policies. Assign static IP addresses to servers and troubleshoot connectivity issues.
