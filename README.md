@@ -7,6 +7,7 @@ The lab simulates a small enterprise network where all devices are part of a loc
 
 ## Project Diagram
 
+![Diagram](https://github.com/ShermanTreeDev/Active-Directory-Simulation-Project/blob/3d606d8c457f2538603efd5797e772163e0ed1f6/Source/Home%20Lab%20Diagram.png)
 
 ### Key Objectives 🔑 
 **Active Directory Deployment**: Install and configure Windows Server as an Active Directory Domain Controller (DC). Set up organizational units (OUs), user accounts, and group policies. Assign static IP addresses to servers and troubleshoot connectivity issues.
