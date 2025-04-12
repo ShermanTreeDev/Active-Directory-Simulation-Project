@@ -14,7 +14,7 @@ The lab simulates a small enterprise network where all devices are part of a loc
 
 **Security Monitoring & Logging**: Install and configure Splunk for centralized log collection. Deploy Sysmon to enhance Windows event logging and capture detailed system activity. Forward logs from Windows Server and Windows 10 clients to Splunk for analysis.
 
-**System Administration **: Creating, managing, and deleting user accounts and permissions. Managing and maintaining computer systems and networks
+**System Administration**: Creating, managing, and deleting user accounts and permissions. Managing and maintaining computer systems and networks
 
 ### Technologies Used 🧑‍💻
 - Windows Server (Active Directory, DNS, DHCP, Group Policy)
