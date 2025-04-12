@@ -1,4 +1,4 @@
-# Active Directory Homelab 🖥️
+# Active Directory Home Lab 🖥️
 
 ## Project Overview 💻
 This home lab project is designed to teach how to set up a Windows Active Directory (AD) environment, create users, and integrate it with Splunk to monitor activities and collect security-related logs using Sysmon and the Splunk Universal Forwarder.
